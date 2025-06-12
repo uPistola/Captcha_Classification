@@ -40,4 +40,4 @@ Captcha_Classification/
 - **`Google Recaptcha v2`**: https://www.kaggle.com/datasets/mikhailma/test-dataset
 - **`Cifar-100`**: https://www-cs-toronto-edu.translate.goog/~kriz/cifar.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
 
-- **`Drive com datasets Textuais`**: 
+- **`Drive com datasets Textuais`**: https://drive.google.com/drive/folders/1FxL8bXfJqNHdn-SMCa95F7OHco0oWZHQ?usp=sharing
